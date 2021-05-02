@@ -1,0 +1,30 @@
+.box1 {
+  background-image: url(img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.box2 {
+  background-image: url(img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.box3 {
+  background-image: url(img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.box4 {
+  background-image: url(img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+div {
+  height: 200px;
+}
+body {
+  margin: 20px;
+}
